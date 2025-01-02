@@ -79,14 +79,14 @@ The remainder of the submission process will be identical to that of regular con
 
 # Organizers
 
-* Maytheewat Aramrattana, Swedish National Road and Transport Research Institute (VTI), Sweden
+* Maytheewat Aramrattana, Swedish National Road and Transport Research Institute (VTI)
 * Nassim Belmecheri, Simula Research Laboratory
 * Atia Cortés, Barcelona Supercomputing Center
 * Arnaud de La Fortelle, Heex technologies
 * Frank Diermeyer, The Technical University of Munich (TUM), Germany
 * Marcel Hallgarten, Robert Bosch GmbH
 * Sascha Hornauer, MINES Paris - PSL
-* Jonas Jansson, VTI, Sweden
+* Jonas Jansson, Swedish National Road and Transport Research Institute (VTI), Sweden
 * Martin Lauer, Karlsruhe Institute of Technology
 * Jiachen Li, Stanford University
 * Maximilian Naumann, Bosch Center for Artificial Intelligence
