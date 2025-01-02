@@ -108,4 +108,7 @@ Keynote speakers (tentatively confirmed):
 * Yanbin Wu, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
 * Wei Zhan, University of California at Berkeley
 
-Contact: Maytheewat Aramrattana <maytheewat.aramrattana@vti.se>
+Contact: 
+* Maytheewat Aramrattana <maytheewat.aramrattana@vti.se>
+* Nassim Belmecheri <nassim@simula.no>
+* Sascha Hornauer <sascha.hornauer@minesparis.psl.eu>
