@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Advancing Automated Driving in Highly Interactive Scenarios through Behavior Prediction, Trustworthy AI, and Remote Operations
 Automated driving is being developed and deployed in complex road traffic environments with dense interactions. Ensuring safe and comfortable operation requires adaptable solutions — from reliance solely on onboard sensors and computing to integration with intelligent infrastructure, connectivity, and remote operation. As vehicles become increasingly intelligent, maintaining their efficiency and safety throughout their operational lifetime is essential for preventing accidents and fostering public trust.
 
 This workshop explores three critical topics:
@@ -67,19 +66,13 @@ The remainder of the submission process will be identical to that of regular con
 |:--------------|:------------------|
 | 8:00 - 8:30   | Registration      |
 | 8:30 - 8:40   | Opening and welcoming |
-| 8:40 - 10:30  | Session 1: Remote operation of road vehicles
-* Keynote speaker 1
-* Workshop paper presentation 1-5 |
+| 8:40 - 10:30  | <ul><li>Session 1: Remote operation of road vehicles</li><li>Keynote speaker 1</li></ul><ul><li>Workshop paper presentation 1-5</li></ul>|
 | 10:30 - 11:00 | Poster session 1 |
 | 11:00 - 11:20 | Coffee break |
-| 11:20 - 13:10  | Session 2: Aspects of trustworthy AI for CCAM
-* Keynote speaker 2  
-* Workshop paper presentation 6-10 |
+| 11:20 - 13:10 |<ul><li>Session 2: Aspects of trustworthy AI for CCAM</li><li>Keynote speaker 2</li></ul><ul><li>Workshop paper presentation 6-10</li></ul>|
 | 13:10 - 14:10 | Lunch |
-| 14:10 - 16:00 | Session 3: Multi-stakeholder road interactions 
-* Keynote speaker 3
-* Workshop paper presentation 11-15 |
-| 16:00- 16:30 | Poster session 2 |
-| 16:30 - 16:50| Coffee break  |
-| 16:50 -18:00| Round table discussion|
-| 18:00 - 18:10| Closing|
+| 14:10 - 16:00 |<ul><li>Session 3: Multi-stakeholder road interactions</li><li>Keynote speaker 3</li></ul><ul><li>Workshop paper presentation 11-15</li></ul>|
+| 16:00- 16:30  | Poster session 2 |
+| 16:30 - 16:50 | Coffee break  |
+| 16:50 -18:00  | Round table discussion|
+| 18:00 - 18:10 | Closing|
