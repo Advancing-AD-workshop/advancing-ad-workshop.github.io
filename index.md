@@ -63,7 +63,7 @@ The remainder of the submission process will be identical to that of regular con
 
 # Tentative schedule
 
-| Time          | Program          
+| Time          | Program           |
 |:--------------|:------------------|
 | 8:00 - 8:30   | Registration      |
 | 8:30 - 8:40   | Opening and welcoming |
