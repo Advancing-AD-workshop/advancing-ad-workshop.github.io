@@ -55,7 +55,6 @@ The papers submitted for workshops will undergo the same rigorous review process
 
 If you are interested in contributing, please take the following steps:
 1. Prepare your paper according to the [template](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}.
-1. Review Submission Guidelines: Each workshop has its own specific topic detailed in the “Call for Workshop Papers.” provided below. Please make sure that the topic of the paper matches with the scope of the workshop.
 1. Submit on [PaperCept](https://its.papercept.net/){:target="_blank"} Using the Workshop Code: **BehPred_TrustAI_RemOp** (Authors should use the unique code assigned to the chosen workshop when submitting the paper via PaperCept.)
 
 The remainder of the submission process will be identical to that of regular conference submissions.
