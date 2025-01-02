@@ -76,3 +76,30 @@ The remainder of the submission process will be identical to that of regular con
 | 16:30 - 16:50 | Coffee break  |
 | 16:50 -18:00  | Round table discussion|
 | 18:00 - 18:10 | Closing|
+
+# Organizers
+
+* Maytheewat Aramrattana, Swedish National Road and Transport Research Institute (VTI), Sweden
+* Nassim Belmecheri, Simula Research Laboratory
+* Atia Cortés, Barcelona Supercomputing Center
+* Arnaud de La Fortelle, Heex technologies
+* Frank Diermeyer, The Technical University of Munich (TUM), Germany
+* Marcel Hallgarten, Robert Bosch GmbH
+* Sascha Hornauer, MINES Paris - PSL
+* Jonas Jansson, VTI, Sweden
+* Martin Lauer, Karlsruhe Institute of Technology
+* Jiachen Li, Stanford University
+* Maximilian Naumann, Bosch Center for Artificial Intelligence
+* Michael Oehl, German Aerospace Center (DLR), Germany
+* Karla Quintero, IRT SystemX
+* Eike Rehder, Robert Bosch GmbH
+* Andreas Schrank, DLR, Germany
+* Christoph Stiller, Karlsruhe Institute of Technology
+* Masayoshi Tomizuka, University of California at Berkeley
+* Marek Vanzura, Roboauto, Czech Republic
+* Pavan Vasishta, Akkodis Research
+* Maria Wolf, TUM, Germany
+* Yanbin Wu, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
+* Wei Zhan, University of California at Berkeley
+
+Contact: Maytheewat Aramrattana <maytheewat.aramrattana@vti.se>
