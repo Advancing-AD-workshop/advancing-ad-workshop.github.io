@@ -54,9 +54,9 @@ Authors are invited to submit full-length papers up to 6 pages for technical con
 The papers submitted for workshops will undergo the same rigorous review process as the main conference papers. Once accepted and presented in person at the event, it will also be published in the conference proceedings.
 
 If you are interested in contributing, please take the following steps:
-1. Prepare your paper according to the [template](https://www.ieee.org/conferences/publishing/templates.html).
+1. Prepare your paper according to the [template](https://www.ieee.org/conferences/publishing/templates.html){:target="_blank"}.
 1. Review Submission Guidelines: Each workshop has its own specific topic detailed in the “Call for Workshop Papers.” provided below. Please make sure that the topic of the paper matches with the scope of the workshop.
-1. Submit on [PaperCept](https://its.papercept.net/) Using the Workshop Code: **BehPred_TrustAI_RemOp** (Authors should use the unique code assigned to the chosen workshop when submitting the paper via PaperCept.)
+1. Submit on [PaperCept](https://its.papercept.net/){:target="_blank"} Using the Workshop Code: **BehPred_TrustAI_RemOp** (Authors should use the unique code assigned to the chosen workshop when submitting the paper via PaperCept.)
 
 The remainder of the submission process will be identical to that of regular conference submissions.
 
@@ -66,12 +66,12 @@ The remainder of the submission process will be identical to that of regular con
 |:--------------|:------------------|
 | 8:00 - 8:30   | Registration      |
 | 8:30 - 8:40   | Opening and welcoming |
-| 8:40 - 10:30  | <ul><li>Session 1: Remote operation of road vehicles</li><li>Keynote speaker 1</li></ul><ul><li>Workshop paper presentation 1-5</li></ul>|
+| 8:40 - 10:30  | Session 1: Remote operation of road vehicles <br> • Keynote speaker 1 <br> • Workshop paper presentation 1-5|
 | 10:30 - 11:00 | Poster session 1 |
 | 11:00 - 11:20 | Coffee break |
-| 11:20 - 13:10 |<ul><li>Session 2: Aspects of trustworthy AI for CCAM</li><li>Keynote speaker 2</li></ul><ul><li>Workshop paper presentation 6-10</li></ul>|
+| 11:20 - 13:10 |Session 2: Aspects of trustworthy AI for CCAM <br> • Keynote speaker 2 <br> • Workshop paper presentation 6-10|
 | 13:10 - 14:10 | Lunch |
-| 14:10 - 16:00 |<ul><li>Session 3: Multi-stakeholder road interactions</li><li>Keynote speaker 3</li></ul><ul><li>Workshop paper presentation 11-15</li></ul>|
+| 14:10 - 16:00 |Session 3: Multi-stakeholder road interactions <br> • Keynote speaker 3 <br> • Workshop paper presentation 11-15|
 | 16:00- 16:30  | Poster session 2 |
 | 16:30 - 16:50 | Coffee break  |
 | 16:50 -18:00  | Round table discussion|
