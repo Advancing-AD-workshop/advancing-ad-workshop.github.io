@@ -66,16 +66,23 @@ The remainder of the submission process will be identical to that of regular con
 |:--------------|:------------------|
 | 8:00 - 8:30   | Registration      |
 | 8:30 - 8:40   | Opening and welcoming |
-| 8:40 - 10:30  | Session 1: Remote operation of road vehicles <br> • Keynote speaker 1 <br> • Workshop paper presentation 1-5|
+| 8:40 - 10:30  | **Session 1: Remote operation of road vehicles** <br> • Keynote speaker 1 <br> • Workshop paper presentation 1-5|
 | 10:30 - 11:00 | Poster session 1 |
 | 11:00 - 11:20 | Coffee break |
-| 11:20 - 13:10 |Session 2: Aspects of trustworthy AI for CCAM <br> • Keynote speaker 2 <br> • Workshop paper presentation 6-10|
+| 11:20 - 13:10 | **Session 2: Aspects of trustworthy AI for CCAM** <br> • Keynote speaker 2 <br> • Workshop paper presentation 6-10|
 | 13:10 - 14:10 | Lunch |
-| 14:10 - 16:00 |Session 3: Multi-stakeholder road interactions <br> • Keynote speaker 3 <br> • Workshop paper presentation 11-15|
+| 14:10 - 16:00 | **Session 3: Multi-stakeholder road interactions** <br> • Keynote speaker 3 <br> • Workshop paper presentation 11-15|
 | 16:00- 16:30  | Poster session 2 |
 | 16:30 - 16:50 | Coffee break  |
 | 16:50 -18:00  | Round table discussion|
 | 18:00 - 18:10 | Closing|
+
+Keynote speakers (tentatively confirmed): 
+* José Alvarez, NVIDIA, CA, USA
+* Johannes Betz, TUM, Munich, Germany 
+* Dariu Gavrila, TU Delft, Netherlands 
+* Marcos Nieto Doncel - VICOMTECH, Spain
+* Jakub Juza - Roboauto, Czech Republic
 
 # Organizers
 
