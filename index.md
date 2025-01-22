@@ -115,7 +115,7 @@ Contact:
 
 # Sponsors
 
-![AI4CCAM Logo](/images/ai4ccam-v1.jpg)
+<img src="/images/ai4ccam-v1.jpg" alt="AI4CCAM Logo" width="200"/>
 
 This workshop is partially supported by:
 * [AI4CCAM project](https://www.ai4ccam.eu/)
