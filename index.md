@@ -112,3 +112,11 @@ Contact:
 * Maytheewat Aramrattana <maytheewat.aramrattana@vti.se>
 * Nassim Belmecheri <nassim@simula.no>
 * Sascha Hornauer <sascha.hornauer@minesparis.psl.eu>
+
+# Sponsors
+
+![AI4CCAM Logo](/images/ai4ccam-v1.jpg)
+
+This workshop is partially supported by:
+* [AI4CCAM project](https://www.ai4ccam.eu/)
+* [REDO2 project](https://www.vti.se/en/research/vehicle-technology-and-driving-simulation/project-redo2)
