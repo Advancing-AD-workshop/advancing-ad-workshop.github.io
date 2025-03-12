@@ -102,7 +102,7 @@ Keynote speakers (tentatively confirmed):
 * Andreas Schrank, DLR, Germany
 * Christoph Stiller, Karlsruhe Institute of Technology
 * Masayoshi Tomizuka, University of California at Berkeley
-* Marek Vanzura, Roboauto, Czech Republic
+* Marek Vanzura, Autinno, Czech Republic
 * Pavan Vasishta, Akkodis Research
 * Maria Wolf, TUM, Germany
 * Yanbin Wu, The National Institute of Advanced Industrial Science and Technology (AIST), Japan
