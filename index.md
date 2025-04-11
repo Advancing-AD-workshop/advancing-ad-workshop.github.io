@@ -65,8 +65,12 @@ The remainder of the submission process will be identical to that of regular con
 |:--------------|:------------------|
 | 8:00 - 8:30   | Registration      |
 | 8:30 - 8:40   | Opening and welcoming |
-| 8:40 - 10:30  | **Session 1: Remote operation of road vehicles** <br> • Keynote speaker 1 <br> • Workshop paper presentation 1-5|
-| 10:30 - 11:00 | Poster session 1 |
+|               | **Session 1: Remote operation of road vehicles** |
+| 8:40 - 9:10   | Keynote talk <br> _Jakub Juza - Roboauto, Czech Republic_ |
+| 9:10 - 9:30   | Learning from Disengagements: An Analysis of Safety Driver Interventions during Remote Driving <br> _Ole Hans, Jürgen Adamy_ |
+| 9:30 - 9:50   | Control Center Framework for Teleoperation Support of Automated Vehicles on Public Roads <br> _Maria Wolf, Niklas Krauss, Arwed Schmidt, Frank Diermeyer_ |
+| 9:50 - 10:10  | Regulating Teleoperation on Public Roads: Key Takeaways from an Expert Workshop <br> _Bengt Escher, Jonas Herde, Florian Nikolai, Andreas Riener_ |
+| 10:10 - 11:00 | Invited talk (TBD) & Panel discussion |
 | 11:00 - 11:20 | Coffee break |
 | 11:20 - 13:10 | **Session 2: Aspects of trustworthy AI for CCAM** <br> • Keynote speaker 2 <br> • Workshop paper presentation 6-10|
 | 13:10 - 14:10 | Lunch |
