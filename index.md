@@ -95,7 +95,6 @@ This workshop is partially supported by:
 
 # Submission Guideline
 
-<details>
 
 Authors are invited to submit full-length papers up to 6 pages for technical content including figures and references. Additional pages will be charged at the rate of $100 per page and is limited to two pages per paper. Each accepted paper must be covered by at least one non-student registration. Additional papers by the same authors will be charged at the flat rate of $400 per paper.
 
@@ -107,11 +106,7 @@ If you are interested in contributing, please take the following steps:
 
 The remainder of the submission process will be identical to that of regular conference submissions.
 
-</details>
-
 # List of topics
-
-<details>
 
 We welcome and encourage submissions of workshop papers related to the following topics:
 * Connectivity challenges in road vehicle remote operation
@@ -133,5 +128,3 @@ We welcome and encourage submissions of workshop papers related to the following
 * Symbolic AI for Enhancing Trustworthiness
 * Explainable AI for CCAM
 * Bias identification and mitigation in CCAM
-
-</details>
