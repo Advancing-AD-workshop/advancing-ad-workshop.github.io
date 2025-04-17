@@ -25,7 +25,6 @@ By combining these topics, the workshop provides a comprehensive view of automat
 * **April 25, 2025**: Workshop Final Paper Submission Deadline
 * **June 22, 2025**: Workshops Date
 
-
 # Tentative schedule
 
 | Time          | Program           |
@@ -37,15 +36,20 @@ By combining these topics, the workshop provides a comprehensive view of automat
 | 9:10&rarr;9:30   | Learning from Disengagements: An Analysis of Safety Driver Interventions during Remote Driving <br> _Ole Hans, Jürgen Adamy_ <br> <details> **Abstract**: This study investigates disengagements of Remote Driving Systems (RDS) based on interventions by an in-vehicle Safety Drivers (SD) in real-world Operational Design Domains (ODD) with a focus on Remote Driver (RD) performance during their driving training. Based on an analysis of over 14,000 km on remote driving data, the relationship between the driving experience of 25 RD and the frequency of disengagements is systematically investigated. The results show that the number of SD interventions decreases significantly within the first 400 km of driving experience, which illustrates a clear learning curve of the RD. In addition, the most common causes for 183 disengagements analyzed are identified and categorized, whereby four main scenarios for SD interventions were identified and illustrated. The results emphasize the need for experience-based and targeted training programs aimed at developing basic driving skills early on, thereby increasing the safety, controllability and efficiency of RDS, especially in complex urban environment ODDs. </details>|
 | 9:30&rarr;9:50   | Control Center Framework for Teleoperation Support of Automated Vehicles on Public Roads <br> _Maria Wolf, Niklas Krauss, Arwed Schmidt, Frank Diermeyer_ <br> <details> **Abstract**: Implementing a teleoperation system with its various actors and interactions is challenging and requires an overview of the necessary functions. This work collects all tasks that arise in a control center for an automated vehicle fleet from literature and assigns them to the two roles Remote Operator and Fleet Manager. Focusing on the drivingrelated tasks of the remote operator, a process is derived that contains the sequence of tasks, associated vehicle states, and transitions between the states. The resulting state diagram shows all remote operator actions available to effectively resolve automated vehicle disengagements. Thus, the state diagram can be applied to existing legislation or modified based on prohibitions of specific interactions. The developed control center framework and included state diagram should serve as a basis for implementing and testing remote support for automated vehicles to be validated on public roads. </details>|
 | 9:50&rarr;10:10  | Regulating Teleoperation on Public Roads: Key Takeaways from an Expert Workshop <br> _Bengt Escher, Jonas Herde, Florian Nikolai, Andreas Riener_ <details> **Abstract**:  Teleoperation is considered an interim solution for the introduction of automated vehicles in public transport. It describes the possibility for a remote driver to take control of the vehicle if there are uncertainties regarding the current driving situation. Despite the efforts of researchers and legislators and the obvious advantages of the technology, explicit regulations for teleoperation are still pending. One reason for this is the absence of clarity regarding which aspects need to be regulated and in what form. The aim of this paper is to provide an overview of different categories and specifications that need to be defined to support the derivation of legal requirements. For this purpose, we conducted a workshop in Germany with experts from various disciplines who have been involved in the integration of automated driving for many years. Based on insights from the fields of law, technology, human factors, and licensing authorities, a list of the requirements was developed. By presenting a holistic approach, the results should help to develop a common consensus on the scope of the regulations and to define clear threshold values. </details>|
-| 10:10&rarr;11:00 | Invited talk (TBD) & Panel discussion |
-| 11:00&rarr;11:20 | Coffee break |
-| 11:20&rarr;13:10 | **Session 2: Aspects of trustworthy AI for CCAM** <br> • Keynote speaker 2 <br> • Workshop paper presentation 6-10|
-| 13:10&rarr;14:10 | Lunch |
-| 14:10&rarr;16:00 | **Session 3: Multi-stakeholder road interactions** <br> • Keynote speaker 3 <br> • Workshop paper presentation 11-15|
-| 16:00&rarr;16:30  | Poster session 2 |
-| 16:30&rarr;16:50 | Coffee break  |
-| 16:50&rarr;18:00  | Round table discussion|
-| 18:00&rarr;18:10 | Closing|
+| 10:10&rarr;10:30 | Invited talk (TBD) |
+| 10:30&rarr;11:00 | Coffee break |
+| 11:00&rarr;12:30 | **Session 2: Aspects of trustworthy AI for CCAM** <br> • Keynote speaker 2 <br> • Workshop paper presentation 6-10|
+| 12:30&rarr;13:30 | Lunch |
+|   | **Session 3: Multi-stakeholder road interactions** |
+| 13:30&rarr;13:50 | Intention-aware Policy Graphs for Explainable Autonomous Driving <br> Sara Montese, Victor Gimenez-Abalos, ATIA CORTES MARTINEZ, Ulises Cortés |
+| 13:50&rarr;14:20 | Keynote talk (tentative confirmation) <br> <i>José Alvarez - NVIDIA</i> |
+| 15:00&rarr;15:30 | Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks <br> Belmecheri Nassim, Arnaud Gotlieb, NADJIB LAZAAR, Helge Spieker |
+| 15:30&rarr;16:00 | Coffee break  |
+| 16:00&rarr;16:30 | Keynote talk (tentative confirmation) <br> <i>Johannes Betz, TU Munich</i>  |
+| 16:30&rarr;17:00 | Keynote talk (tentative confirmation) <br> <i>Dariu Gavrila, TU Delft</i> |
+| 17:00&rarr;17:30  | Round table discussion |
+| 17:30&rarr;18:00  | Poster session |
+| 18:00&rarr;18:30 | Closing|
 
 Keynote speakers (tentatively confirmed): 
 * José Alvarez, NVIDIA, CA, USA
