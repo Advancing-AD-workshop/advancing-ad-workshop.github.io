@@ -46,7 +46,7 @@ By combining these topics, the workshop provides a comprehensive view of automat
 | 15:00&rarr;15:30 | Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks <br> Belmecheri Nassim, Arnaud Gotlieb, NADJIB LAZAAR, Helge Spieker |
 | 15:30&rarr;16:00 | Coffee break  |
 | 16:00&rarr;16:30 | Keynote talk (tentative confirmation) <br> <i>Johannes Betz, TU Munich</i>  |
-| 16:30&rarr;17:00 | Keynote talk (tentative confirmation) <br> <i>Dariu Gavrila, TU Delft</i> |
+| 16:30&rarr;17:00 | Keynote talk (tentative confirmation) - Road User Motion Prediction in Dense Urban Traffic <br> <i>Dariu Gavrila, TU Delft</i> |
 | 17:00&rarr;17:30  | Round table discussion |
 | 17:30&rarr;18:00  | Poster session |
 | 18:00&rarr;18:30 | Closing|
