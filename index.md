@@ -41,8 +41,7 @@ By combining these topics, the workshop provides a comprehensive view of automat
 |  | **Session 2: Aspects of trustworthy AI for CCAM** |
 | 11:00&rarr;11:20 | Simulating Ethical Trade-offs in Autonomous Driving  [Workshop paper] <br> <i>John Mocettini, ATIA CORTES MARTINEZ, Luis Oliva-Felipe, Sergio Alvarez-Napagao</i> |
 | 11:20&rarr;11:40 | Automatic Cause Determination in Road Scene Understanding Using Qualitative Reasoning and Four-Valued Logic  [Workshop paper] <br> <i>Belmecheri Nassim, Arnaud Gotlieb, NADJIB LAZAAR, Helge Spieker </i> |
-| 11:40&rarr;12:00 | An Approach to Design Human-in-the-Loop Safety-critical Driving
-Scenario Simulations via Virtual Reality  <br> <i>Elem Güzel, Sandra Victor, Marc El Zeeny, Marlies Mischinger, Michael Schmeja and Gowrishankar Ganesh</i> |
+| 11:40&rarr;12:00 | An Approach to Design Human-in-the-Loop Safety-critical Driving Scenario Simulations via Virtual Reality  <br> <i>Elem Güzel, Sandra Victor, Marc ElZeeny, Marlies Mischinger, Michael Schmeja and Gowrishankar Ganesh</i> |
 | 12:00&rarr;12:30 | Keynote talk  <br> <i>Marcos Nieto Doncel - VICOMTECH, Spain</i> |
 | 12:30&rarr;13:30 | Lunch |
 |   | **Session 3: Multi-stakeholder road interactions** |
