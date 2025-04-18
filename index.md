@@ -25,7 +25,7 @@ By combining these topics, the workshop provides a comprehensive view of automat
 * **April 25, 2025**: Workshop Final Paper Submission Deadline
 * **June 22, 2025**: Workshops Date
 
-# Tentative schedule
+# Workshop program
 
 | Time          | Program           |
 |:-------------:|:------------------|
