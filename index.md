@@ -49,18 +49,10 @@ By combining these topics, the workshop provides a comprehensive view of automat
 | 13:50&rarr;14:20 | Keynote talk (tentative confirmation) <br> <i>José Alvarez - NVIDIA</i> |
 | 15:00&rarr;15:30 | Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks [Workshop paper] <br> <i>Belmecheri Nassim, Arnaud Gotlieb, NADJIB LAZAAR, Helge Spieker</i> |
 | 15:30&rarr;16:00 | Coffee break  |
-| 16:00&rarr;16:30 | Keynote talk (tentative confirmation) <br> <i>Johannes Betz, TU Munich</i>  |
-| 16:30&rarr;17:00 | Keynote talk (tentative confirmation) - Road User Motion Prediction in Dense Urban Traffic <br> <i>Dariu Gavrila, TU Delft</i> |
-| 17:00&rarr;17:30  | Round table discussion |
-| 17:30&rarr;18:00  | Poster session |
-| 18:00&rarr;18:30 | Closing|
-
-Keynote speakers (tentatively confirmed): 
-* José Alvarez, NVIDIA, CA, USA
-* Johannes Betz, TUM, Munich, Germany 
-* Dariu Gavrila, TU Delft, Netherlands 
-* Marcos Nieto Doncel - VICOMTECH, Spain
-* Jakub Juza - Roboauto, Czech Republic
+| 16:00&rarr;16:30 | Keynote talk <br> <i>Dariu Gavrila, TU Delft</i>|
+| 16:30&rarr;17:00 | Occlusion-aware Motion Planning in uncertain Environment <br> <i>Johannes Betz, TU Munich</i>  |
+| 17:00&rarr;17:15  | Closing |
+| 17:15&rarr;18:15  | Poster session |
 
 # Organizers
 
